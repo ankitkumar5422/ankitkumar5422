@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ankitkumar5422
 - 👀 I’m interested in Web Devlopment And Cybersecurity
 - 🌱 I’m currently learning B.tech CSE 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... ak6216964@gmail.com
 
 <!---
