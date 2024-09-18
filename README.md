@@ -1,6 +1,5 @@
 - <h1>👋 Hi there, I’m @ankitkumar5422</h1>
--  👀 I’m interested in Softwear development And Cybersecurity
-- 🌱 I’m currently doing B.tech CSE 
+-  👀 I’m interested in Software development And Cybersecurity
 - 📫 How to reach me ... ak6216964@gmail.com
 
 <!---
